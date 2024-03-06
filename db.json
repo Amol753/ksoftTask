@@ -1,0 +1,261 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "json-server",
+            "author": "typicode"
+        }
+    ],
+    "comments": [
+        {
+            "id": "1",
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "emp-data": [
+        {
+            "id": "1",
+            "firstName": "Sagar",
+            "lastName": "Patil",
+            "email": "sag@abc.com",
+            "dob": "2023-01-20T08:23:30Z",
+            "gender": "Male",
+            "education": "Graduate",
+            "company": "ABC",
+            "experience": 10,
+            "package": 12
+        },
+        {
+            "id": "2",
+            "firstName": "Rakesh",
+            "lastName": "Deshmukh",
+            "email": "rak@abc.com",
+            "dob": "2023-05-10T08:23:30Z",
+            "gender": "Male",
+            "education": "Post Graduate",
+            "company": "PQR",
+            "experience": 11,
+            "package": 13
+        },
+        {
+            "id": "3",
+            "firstName": "Priya",
+            "lastName": "Patil",
+            "email": "pri@abc.com",
+            "dob": "2023-04-10T08:23:30Z",
+            "gender": "Female",
+            "education": "Graduate",
+            "company": "ABC",
+            "experience": 10,
+            "package": 10
+        },
+        {
+            "id": "4",
+            "firstName": "Saniya",
+            "lastName": "Kale",
+            "email": "san@abc.com",
+            "dob": "2023-02-15T08:23:30Z",
+            "gender": "Female",
+            "education": "Post Graduate",
+            "company": "PQR",
+            "experience": 11,
+            "package": 12
+        },
+        {
+            "id": "5",
+            "firstName": "Rohan",
+            "lastName": "Mali",
+            "email": "roh@abc.com",
+            "dob": "2023-02-15T08:23:30Z",
+            "gender": "Male",
+            "education": "Diploma",
+            "company": "ABC",
+            "experience": 13,
+            "package": 12
+        },
+        {
+            "id": "6",
+            "firstName": "Payal",
+            "lastName": "Mane",
+            "email": "pay@abc.com",
+            "dob": "2023-02-25T08:23:30Z",
+            "gender": "Female",
+            "education": "Graduate",
+            "company": "PQR",
+            "experience": 10,
+            "package": 11
+        },
+        {
+            "id": "7",
+            "firstName": "Sakshi",
+            "lastName": "Patil",
+            "email": "sak@abccom",
+            "dob": "2023-08-10T08:23:30Z",
+            "gender": "Female",
+            "education": "Post Graduate",
+            "company": "ABC",
+            "experience": 12,
+            "package": 11
+        },
+        {
+            "id": "8",
+            "firstName": "Rahul",
+            "lastName": "Jadhav",
+            "email": "rah@abc.com",
+            "dob": "2023-10-05T08:23:30Z",
+            "gender": "Male",
+            "education": "Matric",
+            "company": "PQR",
+            "experience": 9,
+            "package": 7
+        },
+        {
+            "id": "9",
+            "firstName": "Megha",
+            "lastName": "Chavan",
+            "email": "meg@abc.com",
+            "dob": "2023-04-10T08:23:30Z",
+            "gender": "Female",
+            "education": "Diploma",
+            "company": "ABC",
+            "experience": 8,
+            "package": 8
+        },
+        {
+            "id": "10",
+            "firstName": "Ninad",
+            "lastName": "Jagadale",
+            "email": "nid@abc.com",
+            "dob": "2023-05-20T08:23:30Z",
+            "gender": "Male",
+            "education": "Intermediate",
+            "company": "PQR",
+            "experience": 5,
+            "package": 4
+        },
+        {
+            "id": "11",
+            "firstName": "Saniya",
+            "lastName": "Kale",
+            "email": "san@abc.com",
+            "dob": "2023-02-15T08:23:30Z",
+            "gender": "Female",
+            "education": "Post Graduate",
+            "company": "PQR",
+            "experience": 11,
+            "package": 12
+        },
+        {
+            "id": "12",
+            "firstName": "Rakesh",
+            "lastName": "Deshmukh",
+            "email": "rak@abc.com",
+            "dob": "2023-05-10T08:23:30Z",
+            "gender": "Male",
+            "education": "Post Graduate",
+            "company": "PQR",
+            "experience": 11,
+            "package": 13
+        },
+        {
+            "id": "13",
+            "firstName": "Sagar",
+            "lastName": "Patil",
+            "email": "sag@abc.com",
+            "dob": "2023-01-20T08:23:30Z",
+            "gender": "Male",
+            "education": "Graduate",
+            "company": "ABC",
+            "experience": 10,
+            "package": 12
+        },
+        {
+            "id": "14",
+            "firstName": "Megha",
+            "lastName": "Chavan",
+            "email": "meg@abc.com",
+            "dob": "2023-04-10T08:23:30Z",
+            "gender": "Female",
+            "education": "Diploma",
+            "company": "ABC",
+            "experience": 8,
+            "package": 8
+        },
+        {
+            "id": "15",
+            "firstName": "Rohan",
+            "lastName": "Mali",
+            "email": "roh@abc.com",
+            "dob": "2023-02-15T08:23:30Z",
+            "gender": "Male",
+            "education": "Diploma",
+            "company": "ABC",
+            "experience": 13,
+            "package": 12
+        },
+        {
+            "id": "16",
+            "firstName": "Priya",
+            "lastName": "Patil",
+            "email": "pri@abc.com",
+            "dob": "2023-04-10T08:23:30Z",
+            "gender": "Female",
+            "education": "Graduate",
+            "company": "ABC",
+            "experience": 10,
+            "package": 10
+        },
+        {
+            "id": "17",
+            "firstName": "Payal",
+            "lastName": "Mane",
+            "email": "pay@abc.com",
+            "dob": "2023-02-25T08:23:30Z",
+            "gender": "Female",
+            "education": "Graduate",
+            "company": "PQR",
+            "experience": 10,
+            "package": 11
+        },
+        {
+            "id": "18",
+            "firstName": "Rakesh",
+            "lastName": "Deshmukh",
+            "email": "rak@abc.com",
+            "dob": "2023-05-10T08:23:30Z",
+            "gender": "Male",
+            "education": "Post Graduate",
+            "company": "PQR",
+            "experience": 11,
+            "package": 13
+        },
+        {
+            "id": "19",
+            "firstName": "Ninad",
+            "lastName": "Jagadale",
+            "email": "nid@abc.com",
+            "dob": "2023-05-20T08:23:30Z",
+            "gender": "Male",
+            "education": "Intermediate",
+            "company": "PQR",
+            "experience": 5,
+            "package": 4
+        },
+        {
+            "id": "20",
+            "firstName": "Rohan",
+            "lastName": "Mali",
+            "email": "roh@abc.com",
+            "dob": "2023-02-15T08:23:30Z",
+            "gender": "Male",
+            "education": "Diploma",
+            "company": "ABC",
+            "experience": 13,
+            "package": 12
+        }
+    ]
+}

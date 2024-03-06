@@ -1,0 +1,31 @@
+.content {
+    padding-top: 5px;
+
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+
+    mat-form-field {
+        width: 100%;
+    }
+}
+
+.action {
+    padding: 0px 45px 20px;
+
+    button {
+        flex: 1;
+    }
+}
+
+h1 {
+    margin-left: 84px;
+    font-weight: 600;
+    ;
+}
+
+.bgc {
+    background: #eeffff;
+}
